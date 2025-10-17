@@ -1,0 +1,31 @@
+{
+  "licenses": [
+    {
+      "key": "Xenix-on-top",
+      "device_id": "9e947ac4-0204-448a-ae11-16273c39d0f3",
+      "expiry_date": "2025-10-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2025-10-17",
+      "max_devices": 1
+    },
+    {
+      "key": "Xenix-Paid-User",
+      "device_id": "b0f4640d-4dc6-4cdd-a543-cc2a0577f33a", 
+      "expiry_date": "2025-10-24",
+      "active": true,
+      "status": "active",
+      "created_date": "2025-10-17",
+      "max_devices": 1
+    },
+    {
+      "key": "1DxXenixLoaderH1xlze",
+      "device_id": "",
+      "expiry_date": "2025-10-19",
+      "active": false,
+      "status": "inactive",
+      "created_date": "2025-10-17",
+      "max_devices": 1
+    }
+  ]
+}
